@@ -21,7 +21,7 @@ Home of my newsletters
 
 ### Mailer (python script)
 1. [Install python](https://www.python.org/downloads/)
-2. `pip install dotenv tqdm requests`
+2. `pip install dotenv tqdm requests` **OR** install dependancies with `pdm add`
 3. `cp .sample.env .env`
 4. Make & populate `recipients.csv` with format `<name>,<email>`
 5. `python3 newsletter-mailer.py` (will confirm before sending)
