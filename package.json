@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethandawes/news.git"
+    "url": "git+https://github.com/basildawes/news.git"
   },
-  "author": "Ethan Dawes",
+  "author": "Basil Dawes",
   "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/ethandawes/news/issues"
+    "url": "https://github.com/basildawes/news/issues"
   },
   "homepage": "basildawes.github.io/news/",
   "dependencies": {
