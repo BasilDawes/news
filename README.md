@@ -27,9 +27,7 @@ Home of my newsletters
 5. `python3 newsletter-mailer.py` (will confirm before sending)
 
 ## Newsletter formatting
-- 2-column body images are square & resized to 250x250 (use the "fill" option)
-- 3-column body images are square & resized to 150x150
-- The smallest edge of the hero image is resized to 512 (use the "fit" option of PowerToys image resizer)
+- Body images are bigger than their container b/c I found they still looked blurry. I resized 25%. Looks good and still small filesize
 
 ## Personalization
 The mailer script makes the following substitutions:
