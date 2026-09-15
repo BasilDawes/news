@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/ethandawes/news/issues"
   },
-  "homepage": "ethandawes.github.io/news/",
+  "homepage": "basildawes.github.io/news/",
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
     "mjml": "^4.15.3"

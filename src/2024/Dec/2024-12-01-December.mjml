@@ -54,8 +54,8 @@ image: lincoln.jpg
           </mj-text>
         </mj-column>
       </mj-section>
-      
-      
+
+
       <mj-section>
         <mj-column>
           <mj-image width="250px" height="250px" src="essays.jpg" />
@@ -67,7 +67,7 @@ image: lincoln.jpg
         </mj-column>
       </mj-section>
 
-      
+
       <mj-section>
         <mj-column>
           <mj-image width="150px" height="150px" src="cats.jpg" />
@@ -108,7 +108,7 @@ image: lincoln.jpg
               <li>Met friends at library, tried virtual reality headset! (not my vibe)</li>
               <li>Practiced chess with Josh ♟️ (I lost a lot)</li>
               <li>Not everything produces results. I wasted a bit of time trying to install a program that consolidates my message platforms.</li>
-              <li>As always, here are <a href="https://albums.ethandawes.dev/?t=3GxfDXAK#9UFc5aBHAXAaMjKKiDeVHQgFM3ffacsoep31mfkrZaKA" target="_blank">extra
+              <li>As always, here are <a href="https://immich.basildawes.com/s/college-shenanigans" target="_blank">extra
                   pictures</a></li>
             </ul>
           </mj-text>

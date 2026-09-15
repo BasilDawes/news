@@ -56,14 +56,14 @@ image: presedent.jpg
       <mj-section>
         <mj-column>
           <mj-image width="250px" height="250px" src="gingerbread.jpg" />
-          
+
         </mj-column>
         <mj-column>
           <mj-text>My event, RHA Finals Frost Fest included a gingerbread house building contest and lots of free food. The winner was my friend El's depiction of Purdue Pete getting run over by a train. I was so busy during the event that I didn't even get time to make my own house ☹️ (don't worry, I got one to go). Afterwards, only 2 people helped clean, would not do that again.</mj-text>
         </mj-column>
       </mj-section>
-      
-      
+
+
       <mj-section>
         <mj-column>
           <mj-image width="250px" height="250px" src="fuel.jpg" />
@@ -84,7 +84,7 @@ image: presedent.jpg
               <li>Thanksgiving break timing was rather unfortunate. We had one week of class afterwards, then finals, so many projects incidentaly fell to that time.</li>
               <li>McCutcheon Pancake Night! 🥞🌃 This is a fun tradition my friends and I have to hang out and eat free pancakes!</li>
               <li>💯 Satisifed with grades. As always, Linalg &amp; CS got curved like craaazy which idk how to feel.</li>
-              <li>As always, here are <a href="https://albums.ethandawes.dev/?t=3GxfDXAK#9UFc5aBHAXAaMjKKiDeVHQgFM3ffacsoep31mfkrZaKA" target="_blank">extra
+              <li>As always, here are <a href="https://immich.basildawes.com/s/college-shenanigans" target="_blank">extra
                   pictures</a></li>
             </ul>
           </mj-text>

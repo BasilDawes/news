@@ -4,7 +4,7 @@ from datetime import date, timedelta
 
 from mailer import send_personalized_mail
 
-URL_PREFIX = "https://ethandawes.github.io/news/"
+URL_PREFIX = "https://basildawes.github.io/news/"
 
 def get_mailing_period():
     """

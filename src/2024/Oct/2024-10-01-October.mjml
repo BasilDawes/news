@@ -28,7 +28,7 @@ image: makup.jpg
           Hello $name! I've done new things, so now it's time you hear about them!
         </mj-text>
         <!-- Header -->
-        <mj-image src="https://ethandawes.github.io/news/surge.png" href="https://ethandawes.github.io/news" alt="fish" width="200px" />
+        <mj-image src="https://basildawes.github.io/news/surge.png" href="https://basildawes.github.io/news" alt="fish" width="200px" />
       </mj-column>
     </mj-section>
 
@@ -65,8 +65,8 @@ image: makup.jpg
           <mj-text>Attended Jay Severson leadership retreat (RHA). Learned various techniques. Afterwards, explored the hosting farm. Made scented candle, unfortunately missed cow live birth, jumped on inflatable cushion.</mj-text>
         </mj-column>
       </mj-section>
-      
-      
+
+
       <mj-section>
         <mj-column>
           <mj-image width="250px" height="250px" src="feast.jpg" />
@@ -113,7 +113,7 @@ image: makup.jpg
                 <li>👱‍♂️</li>
               </ul>
               <li>Redesigned newsletter w/ more roundness! Thoughts?</li>
-              <li>As always, here are <a href="https://albums.ethandawes.dev/?t=3GxfDXAK#9UFc5aBHAXAaMjKKiDeVHQgFM3ffacsoep31mfkrZaKA" target="_blank">extra
+              <li>As always, here are <a href="https://immich.basildawes.com/s/college-shenanigans" target="_blank">extra
                   pictures</a>, now hosted on my home server! ☁️</li>
             </ul>
           </mj-text>
@@ -123,7 +123,7 @@ image: makup.jpg
     </mj-wrapper>
     <mj-section>
       <mj-column>
-        <mj-text align="center" font-size="12px"><a href="https://ethandawes.github.io/news/2024/Oct">View as a Web Page</a></mj-text>
+        <mj-text align="center" font-size="12px"><a href="https://basildawes.github.io/news/2024/Oct">View as a Web Page</a></mj-text>
         <mj-text align="center" font-size="12px">$address</mj-text>
       </mj-column>
     </mj-section>
